@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Vijender
+- 👀 I’m interested in Development, DSA and AI/ML
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me - vijenderyadav944@gmail.com
+- Insta - @vijender_944
