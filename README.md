@@ -67,7 +67,7 @@ agent workflows · prompt design · Daily.co video · Square payments · NextAut
 ## 📬 Reach me
 
 [![Email](https://img.shields.io/badge/vijenderyadav944@gmail.com-0b0a08?style=for-the-badge&logo=gmail&logoColor=ffb000)](mailto:vijenderyadav944@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b0a08?style=for-the-badge&logo=vercel&logoColor=ffb000)](https://portfolio1-coral-nine.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0a08?style=for-the-badge&logo=vercel&logoColor=ffb000)](vijender-portfolio-six.vercel.app)
 <!-- TODO: point the Portfolio badge at the new site's URL once deployed -->
 <!-- TODO: add LinkedIn when ready:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0a08?style=for-the-badge&logo=linkedin&logoColor=ffb000)](https://www.linkedin.com/in/YOUR_HANDLE)
