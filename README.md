@@ -23,7 +23,7 @@ end to end with Next.js, TypeScript and MongoDB.
 |---|---|---|
 | **[MediMaven](https://github.com/vijenderyadav944/MediMaven)** | Full telehealth platform — HD video consultations (Daily.co), live transcription tuned for Indian accents (DeepGram Nova-2), AI visit summaries in English + Hindi, Square payments, instant-consult queue on atomic MongoDB ops | Next.js 16 · React 19 · TypeScript · MongoDB |
 | **Salesforce AI Agent** *(link coming soon)* | An agent inside Salesforce that executes CRM work from a single plain-English instruction — records, updates, workflows | Salesforce · AI agent · NL → actions |
-| **Bluff** *(link coming soon)* | The classic card game of deception, fully playable — complete game-state engine, turn logic, calling bluffs | JavaScript · game logic · multiplayer |
+| **[Bluff](https://bluff-3573.onrender.com/)** | The classic card game of deception, fully playable — complete game-state engine, turn logic, calling bluffs | JavaScript · game logic · multiplayer |
 | **[Goal-Tracker](https://github.com/vijenderyadav944/Goal-Tracker)** | Goal tracking with milestones, progress visualisation and comments | TypeScript · React |
 
 <!-- TODO: replace the two "link coming soon" notes with real repo/demo links -->
